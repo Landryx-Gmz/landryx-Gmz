@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - [Introducción](#introducción)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Proyectos](#proyectos)
-- [Cómo Contribuir](#cómo-contribuir)
 - [Contacto](#contacto)
 
 ## Introducción 💡
@@ -73,15 +72,6 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 3. **Gestor de Tareas**
    - Una aplicación de escritorio para gestionar tareas, desarrollada en Java con interfaz gráfica.
 
-## Cómo Contribuir 🤝
-
-Si deseas contribuir a alguno de mis proyectos, sigue estos pasos:
-
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b nueva-rama`).
-3. Realiza los cambios necesarios y commitea tus cambios (`git commit -am 'Descripción del cambio'`).
-4. Haz push a la rama (`git push origin nueva-rama`).
-5. Abre un Pull Request.
 
 ## Contacto 📬
 
