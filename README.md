@@ -1,6 +1,8 @@
+¡Perfecto, Andy! Aquí tienes tu README.md completo, listo para copiar y pegar en tu repositorio. Incluye el banner (usando una imagen local llamada banner.png), íconos visuales en el stack tecnológico, y un diseño limpio y profesional.
+
 <!-- Banner -->
 <p align="center">
-  <img src=["https://chatgpt.com/share/6898bc52-c720-8003-a3f1-f391be368af8"](https://chatgpt.com/s/m_6898c359908c8191836f7eda70179070) alt="Banner - Andy Python Backend Developer" width="100%">
+  <img src="banner.png" alt="Banner - Andy Python Backend Developer" width="100%">
 </p>
 
 <!-- Título -->
@@ -15,12 +17,30 @@
 
 ## 🛠️ Stack Tecnológico
 
-- **Lenguajes:** Python 🐍, SQL  
-- **Frameworks Backend:** Flask, FastAPI  
-- **Bases de Datos:** MySQL, SQLite  
-- **Control de Versiones:** Git, GitHub, Git Bash  
-- **APIs:** RESTful API, integración con modelos IA  
-- **Herramientas:** Postman, Docker básico  
+- 🐍 **Lenguajes:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- ⚙️ **Frameworks Backend:**  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+- 🗄️ **Bases de Datos:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- 🔧 **Control de Versiones:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+  ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+- 🌐 **APIs:**  
+  ![RESTful](https://img.shields.io/badge/RESTful%20API-6DB33F?style=for-the-badge&logo=api&logoColor=white)  
+  ![IA](https://img.shields.io/badge/IA%20Integration-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+
+- 🧰 **Herramientas:**  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -36,12 +56,12 @@
 
 ## 💡 Skills en acción
 
-- Desarrollo de **APIs RESTful** robustas y documentadas.
-- Manejo de **bases de datos relacionales** con MySQL y SQLAlchemy.
-- Uso avanzado de **Git y Git Bash** para control de versiones.
-- Integración de APIs con **modelos de Machine Learning**.
-- Optimización de consultas SQL y rendimiento de aplicaciones.
-- Testeo de endpoints con Postman.
+- Desarrollo de **APIs RESTful** robustas y documentadas  
+- Manejo de **bases de datos relacionales** con MySQL y SQLAlchemy  
+- Uso avanzado de **Git y Git Bash** para control de versiones  
+- Integración de APIs con **modelos de Machine Learning**  
+- Optimización de consultas SQL y rendimiento de aplicaciones  
+- Testeo de endpoints con Postman  
 
 ---
 
@@ -55,5 +75,13 @@
     <img src="https://img.shields.io/badge/Email-andy.backend.dev%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+
+
+
+✅ ¿Qué debes hacer ahora?
+- Asegúrate de que el archivo banner.png esté en la raíz del repositorio.
+- Guarda este contenido en tu archivo README.md.
+- Haz commit y push a GitHub.
+¿Quieres que el banner se vea con bordes redondeados o que se adapte mejor a móviles? También puedo ayudarte con eso.
 
 
