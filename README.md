@@ -11,15 +11,24 @@
 </p>
 
 ---
-
 ## 🛠️ Stack Tecnológico
+### 💻 Lenguajes
+- 🐍 Python - 🗃️ SQL
 
-- **Lenguajes:** Python 🐍, SQL  
-- **Frameworks Backend:** Flask, FastAPI  
-- **Bases de Datos:** MySQL, SQLite  
-- **Control de Versiones:** Git, GitHub, Git Bash  
-- **APIs:** RESTful API, integración con modelos IA  
-- **Herramientas:** Postman, Docker básico  
+### ⚙️ Frameworks Backend
+- 🔥 Flask - ⚡ FastAPI
+
+### 🗄️ Bases de Datos
+- 🐬 MySQL - 📁 SQLite
+
+### 🔄 Control de Versiones
+- 🧠 Git - 🐙 GitHub - 💻 Git Bash
+- 
+### 🌐 APIs
+- 🔗 RESTful API - 🧠 Integración con modelos de IA
+
+### 🧰 Herramientas
+- 📬 Postman - 🐳 Docker (básico) 
 
 ---
 
