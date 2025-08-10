@@ -81,35 +81,60 @@
 - Optimización de consultas SQL y rendimiento de aplicaciones.
 - Testeo de endpoints con Postman.
 
+
 <style>
 .dashboard-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
-.dashboard-title {
-  font-size: 24px;
-  font-weight: bold;
+
+.left-section {
+  display: flex;
+  align-items: flex-start;
 }
+
 .icon-fastapi {
   width: 32px;
   height: 32px;
-  margin-right: 16px;
+  margin-top: 4px;
+  margin-right: 12px;
 }
+
+.left-content h2 {
+  margin: 0 0 8px 0;
+  font-size: 20px;
+}
+
+.left-content ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
 .chart-container {
   flex-shrink: 0;
   margin-left: auto;
-  padding-left: 16px;
+  padding-left: 24px;
 }
 </style>
 
 <div class="dashboard-header">
-  <div class="title-and-icon" style="display: flex; align-items: center;">
+  <div class="left-section">
     <img src="fastapi-icon.png" alt="FastAPI" class="icon-fastapi">
-    <span class="dashboard-title">Mi Panel Estadístico</span>
+    <div class="left-content">
+      <h2>Skills</h2>
+      <ul>
+        <li>Desarrollo de APIs RESTful robustas y documentadas.</li>
+        <li>Manejo de bases de datos relacionales con MySQL y SQLAlchemy.</li>
+        <li>Uso avanzado de Git y Git Bash para control de versiones.</li>
+        <li>Integración de APIs con modelos de Machine Learning.</li>
+        <li>Optimización de consultas SQL y rendimiento de aplicaciones.</li>
+        <li>Testeo de endpoints con Postman.</li>
+      </ul>
+    </div>
   </div>
   <div class="chart-container">
-    <!-- Aquí iría tu gráfico circular -->
+    <!-- Sustituye 'chart.png' por la ruta de tu gráfico circular -->
     ![Gráfico Circular](chart.png)
   </div>
 </div>
