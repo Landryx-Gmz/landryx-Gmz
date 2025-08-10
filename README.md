@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://chatgpt.com/share/6898bc52-c720-8003-a3f1-f391be368af8" alt="Banner - Andy Python Backend Developer" width="100%">
+  <img src=["https://chatgpt.com/share/6898bc52-c720-8003-a3f1-f391be368af8"](https://chatgpt.com/s/m_6898c359908c8191836f7eda70179070) alt="Banner - Andy Python Backend Developer" width="100%">
 </p>
 
 <!-- Título -->
