@@ -1,82 +1,54 @@
-<!--
-**Landryx-Gmz/Landryx-Gmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/4M7IWwP.png" width="100%" alt="Banner - Python Backend Developer">
 
-Here are some ideas to get you started:
+# 👋 ¡Hola, soy Andy Gómez!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 🚀 ¡Bienvenidos a mi GitHub!
+💻 **Desarrollador Backend Python** especializado en **APIs para Inteligencia Artificial** con **FastAPI**.  
+🚀 Enfocado en optimizar el rendimiento, integrar modelos de Machine Learning y desplegar APIs listas para producción.  
+⚡ Amante de las buenas prácticas, la automatización y el desarrollo limpio.
 
-¡Hola! Soy Andy. Este repositorio contendrá algunos de mis proyectos y ejercicios de programación.
+---
 
-## Contenido 📚
+## 🛠 Stack Tecnológico
 
-- [Introducción](#introducción)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Proyectos](#proyectos)
-- [Contacto](#contacto)
+- **Lenguajes:** Python 🐍, Java ☕  
+- **Frameworks Backend:** FastAPI ⚡, Flask 🌐, Spring Boot 🌱  
+- **Bases de Datos:** MySQL 🗄️, SQLite 📂  
+- **Control de Versiones:** Git 🌳, GitHub 🐱, Git Bash 💻  
+- **Desarrollo Web:** HTML 🌐, CSS 🎨  
+- **Herramientas:** VSCode 📝, IntelliJ IDEA 💻, Sourcetree 🧩  
+- **APIs y Despliegue:** REST APIs, JSON, uvicorn, Docker 🐳  
 
-## Introducción 💡
+---
 
-Este repositorio está destinado a documentar mi viaje de aprendizaje en el mundo de la programación. Aquí compartiré proyectos, ejercicios y ejemplos de código que he creado durante mis estudios. ¡Muy pronto subiré nuevos proyectos! 🎉
+## 📂 Proyectos Destacados
 
-## Tecnologías Utilizadas 🛠️
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| **API de Gestión de Tareas** | CRUD de tareas con FastAPI, Pydantic y MySQL. | FastAPI, MySQL, Uvicorn | [🔗 GitHub](https://github.com/Landryx-Gmz) |
+| **API de Clasificación de Texto** | API que integra modelo de Machine Learning para clasificación. | FastAPI, ML, JSON | [🔗 GitHub](https://github.com/Landryx-Gmz) |
+| **Login con Roles y Permisos** | Aplicación de login con interfaz gráfica y CRUD. | Java, MySQL, JPA | [🔗 GitHub](https://github.com/Landryx-Gmz) |
+| **Concesionario de Automóviles** | Sistema de gestión y CRUD de vehículos. | Java, MySQL | [🔗 GitHub](https://github.com/Landryx-Gmz) |
 
-En mis proyectos, utilizo varias tecnologías y lenguajes de programación, incluyendo:
+---
 
-- **Lenguajes de Programación**: Java ☕
-- **Frameworks**: Spring Boot 🌱
-- **Herramientas de Desarrollo**: IntelliJ IDEA 💻, VSCode 📝
-- **Desarrollo Web**: HTML 🌐, CSS 🎨
-- **Control de Versiones**: Git 🌳, GitHub 🐱, Sourcetree 🧩
-- **Base de Datos**: MySQL 🗄️
+## 💡 Habilidades Clave
 
-## Proyectos 📂
+- Desarrollo de **APIs escalables con Python (FastAPI, Flask)**
+- Integración de modelos de **Machine Learning** en entornos productivos
+- Modelado y optimización de **bases de datos relacionales**
+- Uso profesional de **Git/GitHub** y **Git Bash**
+- Documentación de APIs con **Swagger/OpenAPI**
+- Despliegue backend y gestión de entornos virtuales
+- Buenas prácticas de **POO** y patrones de diseño
 
-Aquí te presento algunos de los proyectos que he desarrollado:
+---
 
-### Proyectos en Java:
+## 📬 Contacto
 
-1. **Login con Roles y Permisos**
-   - Proyecto de una aplicación de login con interfaz gráfica, que permite la carga de usuarios con roles de Administrador y Usuario.
-   - Incluye un CRUD completo y utiliza JPA para interactuar con una base de datos MySQL.
+- **LinkedIn:** [Andrés P. Gómez](https://www.linkedin.com/in/andr%C3%A9s-p-g-1981ba2a9/)
+- **GitHub:** [Landryx-Gmz](https://github.com/Landryx-Gmz)
 
-2. **Concesionario de Automóviles**
-   - Aplicación de gestión de concesionarios que permite realizar CRUD de automóviles.
-   - Implementada con JPA y MySQL para la persistencia de datos.
+---
 
-3. **Peluquería Canina**
-   - Sistema para la gestión de una peluquería canina con operaciones CRUD sobre los clientes y sus mascotas.
-   - Implementado con JPA y base de datos MySQL.
+💡 *Actualmente aprendiendo más sobre FastAPI, Docker y despliegues de APIs para IA.*
 
-### Proyecto en HTML:
-
-1. **Página Web de Academia**
-   - Un sitio web sencillo para una academia, construido con HTML y estilizado con CSS, utilizando Flexbox para el diseño responsivo.
-
-### Ejemplo de proyectos futuros:
-
-1. **Aplicación Web con Spring Boot**
-   - Una aplicación web completa utilizando Spring Boot y MySQL.
-
-2. **Sitio Web Personal**
-   - Un sitio web personal creado con HTML, CSS, y JavaScript.
-
-3. **Gestor de Tareas**
-   - Una aplicación de escritorio para gestionar tareas, desarrollada en Java con interfaz gráfica.
-
-
-## Contacto 📬
-
-Puedes contactarme a través de:
-
-- **LinkedIn**: [Andy en LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-p-g-1981ba2a9/)
-
-¡Gracias por visitar mi repositorio! 😊
