@@ -13,11 +13,7 @@
 
 ---
 
-<div align="center">
-
 ## 🛠️ Stack Tecnológico
-
-<div align="center">
 
 <table style="border:none;">
   <tr>
@@ -30,45 +26,55 @@
   </tr>
   <tr>
     <td align="center" style="padding:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br>Python<br><br>
-      <img src="https://img.icons8.com/color/48/000000/sql.png" width="32"/><br>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br>
+      Python<br><br>
+      <img src="https://img.icons8.com/color/48/000000/sql.png" width="32"/><br>
+      SQL
     </td>
     <td align="center" style="padding:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32"/><br>Flask<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/><br>FastAPI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32"/><br>
+      Flask<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/><br>
+      FastAPI
     </td>
     <td align="center" style="padding:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/><br>MySQL<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="32"/><br>SQLite
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/><br>
+      MySQL<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="32"/><br>
+      SQLite
     </td>
     <td align="center" style="padding:16px;">
-      <img src="https://img.icons8.com/color/48/000000/api.png" width="32"/><br>RESTful API<br><br>
-      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="32"/><br>Integración con IA
+      <img src="https://img.icons8.com/color/48/000000/api.png" width="32"/><br>
+      RESTful API<br><br>
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="32"/><br>
+      Integración con IA
     </td>
     <td align="center" style="padding:16px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/><br>Postman<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/><br>Docker (básico)
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/><br>
+      Postman<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/><br>
+      Docker (básico)
     </td>
     <td align="center" style="padding:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/><br>Git<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/><br>GitHub<br><br>
-      <img src="https://img.icons8.com/color/48/000000/bash.png" width="32"/><br>Bash
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/><br>
+      Git<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/><br>
+      GitHub<br><br>
+      <img src="https://img.icons8.com/color/48/000000/bash.png" width="32"/><br>
+      Bash
     </td>
   </tr>
 </table>
-
-</div>
-</div>
 
 ---
 
 ## 📂 Proyectos Destacados
 
-| Proyecto            | Descripción                                                   | Tecnologías                        |
-|---------------------|---------------------------------------------------------------|------------------------------------|
-| **Flask CRUD MySQL**| API CRUD completa con autenticación y manejo de MySQL         | Flask, Python, MySQL, SQLAlchemy   |
-| **Flask API para IA** | API que conecta modelos de IA para inferencia en tiempo real | Flask, Python, FastAPI, REST API   |
-| **Gestor de Datos** | Backend para carga y gestión de datos desde CSV a MySQL       | Python, Pandas, Flask, MySQL       |
+| Proyecto             | Descripción                                                  | Tecnologías                      |
+|----------------------|--------------------------------------------------------------|----------------------------------|
+| **Flask CRUD MySQL** | API CRUD completa con autenticación y manejo de MySQL        | Flask, Python, MySQL, SQLAlchemy |
+| **Flask API para IA**| API que conecta modelos de IA para inferencia en tiempo real | Flask, Python, FastAPI, REST API |
+| **Gestor de Datos**  | Backend para carga y gestión de datos desde CSV a MySQL      | Python, Pandas, Flask, MySQL     |
 
 ---
 
@@ -80,64 +86,6 @@
 - Integración de APIs con modelos de Machine Learning.
 - Optimización de consultas SQL y rendimiento de aplicaciones.
 - Testeo de endpoints con Postman.
-
-
-<style>
-.dashboard-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-
-.left-section {
-  display: flex;
-  align-items: flex-start;
-}
-
-.icon-fastapi {
-  width: 32px;
-  height: 32px;
-  margin-top: 4px;
-  margin-right: 12px;
-}
-
-.left-content h2 {
-  margin: 0 0 8px 0;
-  font-size: 20px;
-}
-
-.left-content ul {
-  margin: 0;
-  padding-left: 20px;
-}
-
-.chart-container {
-  flex-shrink: 0;
-  margin-left: auto;
-  padding-left: 24px;
-}
-</style>
-
-<div class="dashboard-header">
-  <div class="left-section">
-    <img src="fastapi-icon.png" alt="FastAPI" class="icon-fastapi">
-    <div class="left-content">
-      <h2>Skills</h2>
-      <ul>
-        <li>Desarrollo de APIs RESTful robustas y documentadas.</li>
-        <li>Manejo de bases de datos relacionales con MySQL y SQLAlchemy.</li>
-        <li>Uso avanzado de Git y Git Bash para control de versiones.</li>
-        <li>Integración de APIs con modelos de Machine Learning.</li>
-        <li>Optimización de consultas SQL y rendimiento de aplicaciones.</li>
-        <li>Testeo de endpoints con Postman.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="chart-container">
-    <!-- Sustituye 'chart.png' por la ruta de tu gráfico circular -->
-    ![Gráfico Circular](chart.png)
-  </div>
-</div>
 
 ---
 
@@ -151,4 +99,3 @@
     <img src="https://img.shields.io/badge/Email-andy.backend.dev%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
