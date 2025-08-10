@@ -81,6 +81,39 @@
 - Optimización de consultas SQL y rendimiento de aplicaciones.
 - Testeo de endpoints con Postman.
 
+<style>
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dashboard-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+.icon-fastapi {
+  width: 32px;
+  height: 32px;
+  margin-right: 16px;
+}
+.chart-container {
+  flex-shrink: 0;
+  margin-left: auto;
+  padding-left: 16px;
+}
+</style>
+
+<div class="dashboard-header">
+  <div class="title-and-icon" style="display: flex; align-items: center;">
+    <img src="fastapi-icon.png" alt="FastAPI" class="icon-fastapi">
+    <span class="dashboard-title">Mi Panel Estadístico</span>
+  </div>
+  <div class="chart-container">
+    <!-- Aquí iría tu gráfico circular -->
+    ![Gráfico Circular](chart.png)
+  </div>
+</div>
+
 ---
 
 ## 📫 Contacto
