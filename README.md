@@ -13,8 +13,6 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
-
 <div align="center">
 
 ## 🛠️ Stack Tecnológico
