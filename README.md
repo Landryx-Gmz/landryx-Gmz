@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Banner Andy Gomez.png" alt="Banner - Andy Python Backend Developer" width="100%">
+  <img src="AndyBanner.png" alt="Banner - Andy Python Backend Developer" width="100%">
 </p>
 <!-- Título -->
 <h1 align="center">👋 Hola, soy Andy | Python Backend Developer</h1>
