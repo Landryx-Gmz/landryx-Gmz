@@ -13,30 +13,32 @@
 ---
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="24" /> Python  
-- <img src="https://img.icons8.com/fluency/48/000000/sql.png" alt="SQL" width="24" /> SQL
+## 🛠️ Stack Tecnológico
 
-### ⚙️ Frameworks Backend
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="24" /> Flask  
-- <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="24" /> FastAPI
+### 💻 Lenguajes:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" /> Python   
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="24" /> SQL
 
-### 🗄️ Bases de Datos
-- <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="24" /> MySQL  
-- <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" width="24" /> SQLite
+### ⚙️ Frameworks Backend:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="24" /> Flask   
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/fastapi.svg" alt="FastAPI" width="24" /> FastAPI
 
-### 🔄 Control de Versiones
-- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="24" /> Git  
-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" /> GitHub  
-- <img src="https://gitforwindows.org/Git-Logo-2Color.png" alt="Git Bash" width="24" /> Git Bash
+### 🗄️ Bases de Datos:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" /> MySQL   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="24" /> SQLite
 
-### 🌐 APIs
-- <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="RESTful API" width="24" /> RESTful API  
-- <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="IA" width="24" /> Integración con modelos de IA
+### 🔄 Control de Versiones:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" /> Git   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" /> GitHub   
+<img src="https://img.icons8.com/color/48/000000/bash.png" alt="Git Bash" width="24" /> Git Bash
 
-### 🧰 Herramientas
-- <img src="https://assets.getpostman.com/common-share/postman-logo.png" alt="Postman" width="24" /> Postman  
-- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="24" /> Docker (básico)
+### 🌐 APIs:  
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="RESTful API" width="24" /> RESTful API   
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="IA" width="24" /> Integración con modelos de IA
+
+### 🧰 Herramientas:  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="24" /> Postman   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" /> Docker (básico)
 ---
 
 ## 📂 Proyectos Destacados
