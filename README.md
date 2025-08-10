@@ -17,57 +17,49 @@
 
 <div align="center">
 
-<table>
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+<table style="border:none;">
   <tr>
-    <td align="center" style="vertical-align: top; padding: 16px;">
-      💻 Lenguajes<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/><br>
-      Python<br><br>
-      <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="32" height="32"/><br>
-      SQL
-    </td>
-    <td align="center" style="vertical-align: top; padding: 16px;">
-      ⚙️ Frameworks Backend<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="32" height="32"/><br>
-      Flask<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32" height="32"/><br>
-      FastAPI
-    </td>
-    <td align="center" style="vertical-align: top; padding: 16px;">
-      🗄️ Bases de Datos<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/><br>
-      MySQL<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/><br>
-      SQLite
-    </td>
-    <td align="center" style="vertical-align: top; padding: 16px;">
-      🔄 Control de Versiones<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32"/><br>
-      Git<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/><br>
-      GitHub<br><br>
-      <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Git Bash" width="32" height="32"/><br>
-      Bash
-    </td>
+    <th style="font-size:20px; padding:20px;">💻 Lenguajes</th>
+    <th style="font-size:20px; padding:20px;">⚙️ Frameworks Backend</th>
+    <th style="font-size:20px; padding:20px;">🗄️ Bases de Datos</th>
+    <th style="font-size:20px; padding:20px;">🌐 APIs</th>
+    <th style="font-size:20px; padding:20px;">🧰 Herramientas</th>
+    <th style="font-size:20px; padding:20px;">🔄 Control de Versiones</th>
   </tr>
   <tr>
-    <td align="center" style="vertical-align: top; padding: 16px;">
-      🌐 APIs<br>
-      <img src="https://img.icons8.com/color/48/000000/api.png" alt="RESTful API" width="32" height="32"/><br>
-      RESTful API<br><br>
-      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="IA" width="32" height="32"/><br>
-      Integración con IA
+    <td align="center" style="padding:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br>Python<br><br>
+      <img src="https://img.icons8.com/color/48/000000/sql.png" width="32"/><br>SQL
     </td>
-    <td align="center" style="vertical-align: top; padding: 16px;">
-      🧰 Herramientas<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="32" height="32"/><br>
-      Postman<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" height="32"/><br>
-      Docker (básico)
+    <td align="center" style="padding:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32"/><br>Flask<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/><br>FastAPI
+    </td>
+    <td align="center" style="padding:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/><br>MySQL<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="32"/><br>SQLite
+    </td>
+    <td align="center" style="padding:16px;">
+      <img src="https://img.icons8.com/color/48/000000/api.png" width="32"/><br>RESTful API<br><br>
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="32"/><br>Integración con IA
+    </td>
+    <td align="center" style="padding:16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/><br>Postman<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/><br>Docker (básico)
+    </td>
+    <td align="center" style="padding:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/><br>Git<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/><br>GitHub<br><br>
+      <img src="https://img.icons8.com/color/48/000000/bash.png" width="32"/><br>Bash
     </td>
   </tr>
 </table>
 
+</div>
 </div>
 
 ---
