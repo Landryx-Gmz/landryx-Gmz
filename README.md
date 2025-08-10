@@ -14,12 +14,12 @@
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes
-- <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="24" /> Python  
-- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="24" /> SQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="24" /> Python  
+- <img src="https://img.icons8.com/fluency/48/000000/sql.png" alt="SQL" width="24" /> SQL
 
 ### ⚙️ Frameworks Backend
-- <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="24" /> Flask  
-- <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="24" /> FastAPI
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="24" /> Flask  
+- <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="24" /> FastAPI
 
 ### 🗄️ Bases de Datos
 - <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="24" /> MySQL  
