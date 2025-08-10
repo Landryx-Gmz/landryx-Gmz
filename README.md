@@ -12,24 +12,31 @@
 
 ---
 ## 🛠️ Stack Tecnológico
+
 ### 💻 Lenguajes
-- 🐍 Python - 🗃️ SQL
+- <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="24" /> Python  
+- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="24" /> SQL
 
 ### ⚙️ Frameworks Backend
-- 🔥 Flask - ⚡ FastAPI
+- <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="24" /> Flask  
+- <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="24" /> FastAPI
 
 ### 🗄️ Bases de Datos
-- 🐬 MySQL - 📁 SQLite
+- <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="24" /> MySQL  
+- <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" width="24" /> SQLite
 
 ### 🔄 Control de Versiones
-- 🧠 Git - 🐙 GitHub - 💻 Git Bash
-- 
+- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="24" /> Git  
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" /> GitHub  
+- <img src="https://gitforwindows.org/Git-Logo-2Color.png" alt="Git Bash" width="24" /> Git Bash
+
 ### 🌐 APIs
-- 🔗 RESTful API - 🧠 Integración con modelos de IA
+- <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="RESTful API" width="24" /> RESTful API  
+- <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="IA" width="24" /> Integración con modelos de IA
 
 ### 🧰 Herramientas
-- 📬 Postman - 🐳 Docker (básico) 
-
+- <img src="https://assets.getpostman.com/common-share/postman-logo.png" alt="Postman" width="24" /> Postman  
+- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="24" /> Docker (básico)
 ---
 
 ## 📂 Proyectos Destacados
