@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Banner Andy Gomez.png" alt="Banner - Andy Python Backend Developer" width="100%" style="height:100px; object-fit:cover;">
+  <img src="Banner Andy Gomez.png" alt="Banner - Andy Python Backend Developer" width="100%" style="height:200px; object-fit:cover;">
 </p>
 
 <!-- Título -->
