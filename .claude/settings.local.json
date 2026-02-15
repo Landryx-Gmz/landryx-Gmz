@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(powershell.exe -NoProfile -Command \"Copy-Item -Path ''C:\\\\Users\\\\led_a\\\\OneDrive\\\\Imágenes\\\\Fotos personales\\\\Andy_Banner.png'' -Destination ''C:\\\\Dev\\\\Proyectos\\\\Landryx\\\\My-github\\\\landryx-Gmz\\\\AndyBanner.png'' -Force\")",
+      "Bash(cmd.exe:*)"
+    ]
+  }
+}
