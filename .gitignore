@@ -1,2 +1,7 @@
-CLAUDE.md
-habilidades.txt
+# Ignorar todo por defecto
+*
+
+# Solo subir estos archivos
+!.gitignore
+!README.md
+!AndyBanner.png
